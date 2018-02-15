@@ -6,4 +6,6 @@
 ### 打开git命令 执行
 - hexo g部署编译
 - hexo d提交github
-
+### 百度主动推送可参考：
+- https://www.jianshu.com/p/f37452d4978e
+- http://blog.csdn.net/sunshine940326/article/details/70936988
