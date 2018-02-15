@@ -31,7 +31,7 @@ categories:
         npm install -g hexo 
         ```
         等安装完毕，通过输入hexo的命令来测试Hexo是否安装成功,成功如下图展示:
-        ![](../GitImg/githexo.jpg '安装Hexo')
+        ![](../../img/githexo.jpg '安装Hexo')
 	2.**初始化Hexo：**
 		```
         hexo init hexo 
